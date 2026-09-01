@@ -1,0 +1,31 @@
+{
+  "id": "calendar",
+  "label": "Calendar",
+  "shortLabel": "CAL",
+  "color": "#4A90D9",
+  "description": "A collaborative workspace calendar.",
+  "integrations": [
+    {
+      "site": "googleapis.com",
+      "description": "Sync events with Google Calendar",
+      "docsUrl": "https://console.cloud.google.com/apis/credentials"
+    },
+    {
+      "site": "graph.microsoft.com",
+      "description": "Sync events with Microsoft Outlook Calendar",
+      "docsUrl": "https://entra.microsoft.com/"
+    }
+  ],
+  "module": "./src/module.tsx",
+  "panels": [
+    {
+      "id": "calendar-main",
+      "title": "Calendar",
+      "layout": {
+        "width": 960,
+        "minWidth": 220
+      }
+    }
+  ],
+  "panelExtensions": []
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Calendar</title>
+  <rect x="32" y="32" width="448" height="448" rx="112" fill="#4A90D9"/>
+  <rect x="112" y="128" width="288" height="272" rx="52" fill="none" stroke="#FFFFFF" stroke-width="28"/>
+  <path d="M112 216H400" fill="none" stroke="#FFFFFF" stroke-width="28"/>
+  <path d="M184 104V152M328 104V152" fill="none" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round"/>
+  <rect x="168" y="264" width="40" height="40" rx="10" fill="#FFFFFF"/>
+  <rect x="236" y="264" width="40" height="40" rx="10" fill="#FFFFFF"/>
+  <rect x="304" y="264" width="40" height="40" rx="10" fill="#FFFFFF"/>
+  <rect x="168" y="328" width="40" height="40" rx="10" fill="#FFFFFF"/>
+  <rect x="236" y="328" width="40" height="40" rx="10" fill="#FFFFFF"/>
+</svg>
